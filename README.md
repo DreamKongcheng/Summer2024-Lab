@@ -1,0 +1,3 @@
+这是2024暑期杨易老师的深度学习课程的大作业代码仓库，包含：
+- 杨正宇的 基于pytorch实现的Vision Transformer在MNIST数据集上的识别
+- 赵一帆的 基于pytorch实现的CNN与Resnet在MNIST数据集上的识别
